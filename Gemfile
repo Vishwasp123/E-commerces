@@ -55,3 +55,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'jwt'
+gem "bcrypt", "~> 3.1.7"
+gem 'active_model_serializers'
+gem "rspec-rails"
